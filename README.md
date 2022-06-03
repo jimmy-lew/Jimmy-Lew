@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[![notjim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmy-Lew&show_icons=true&theme=vue_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![notjim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmy-Lew&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy-Lew)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy-Lew&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![notjim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jvnus)](https://github.com/anuraghazra/github-readme-stats)
+[![notjim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jvnus&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Jimmy-Lew/Jimmy-Lew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
