@@ -1,7 +1,8 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/84e44f34-034b-4325-820f-3d050ed5a5e5.svg)](https://wakatime.com/@84e44f34-034b-4325-820f-3d050ed5a5e5)
 
-![notjim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmy-Lew&show_icons=true&theme=vue-dark) 
+![notjim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmy-Lew&show_icons=true&theme=vue-dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy-Lew&theme=vue-dark)
 
 <!--
