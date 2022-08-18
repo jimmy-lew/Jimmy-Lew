@@ -1,9 +1,9 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/84e44f34-034b-4325-820f-3d050ed5a5e5.svg)](https://wakatime.com/@84e44f34-034b-4325-820f-3d050ed5a5e5)
 
-![notjim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmy-Lew&show_icons=true)
+![notjim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmy-Lew&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy-Lew)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy-Lew&theme=dark)
 
 <!--
 **Jimmy-Lew/Jimmy-Lew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
