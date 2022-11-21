@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/-Vs Code-000?style=for-the-badge&labelColor=000&logo=visualstudiocode" />
   <img src="https://img.shields.io/badge/-Adobe-000?style=for-the-badge&labelColor=000&logo=adobe" />
   <img src="https://img.shields.io/badge/-Figma-ec4c1d?style=for-the-badge&labelColor=000&logo=figma" />
-  <img src="https://img.shields.io/badge/-Spline-000?style=for-the-badge&labelColor=000&logo=spline" />
+<!--   <img src="https://img.shields.io/badge/-Spline-000?style=for-the-badge&labelColor=000&logo=spline" /> -->
   <br/>
   <br/>
   <samp>
