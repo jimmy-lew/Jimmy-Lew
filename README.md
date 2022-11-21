@@ -41,9 +41,9 @@
   <img src="https://img.shields.io/badge/-Spline-000?style=for-the-badge&labelColor=000&logo=spline" />
   <br/>
   <br/>
-  <code>
+  <samp>
     I'm Jimmy. A Fullstack Web Developer & UI/UX Designer from Singapore <img width="20rem" style="border-radius: 0.1rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/800px-Flag_of_Singapore.svg.png?20211012105253"/> .
-  </code>
+  </samp>
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=jimmy-lew&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&bg_color=000&theme=github_dark" alt="Github Stats"></img>
