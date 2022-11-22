@@ -62,7 +62,7 @@
     Drop me an e-mail!
   </a>
   <img src="./public/web.svg">
-  <a href="https://portfolio-jimmy-lew.vercel.app" style="color: inherit;">
+  <a href="https://portfolio-jimmy-lew.vercel.app" target="_blank" style="color: inherit;">
     Checkout my website!
   </a>
 </p>
