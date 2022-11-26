@@ -1,13 +1,6 @@
 # Hi There :wave:
 
 <p align="center">
-  <!-- <a href="https://wakatime.com/@84e44f34-034b-4325-820f-3d050ed5a5e5">
-    <img src="https://wakatime.com/badge/user/84e44f34-034b-4325-820f-3d050ed5a5e5.svg?style=for-the-badge&labelColor=000000&color=" alt="Wakatime Stats"></img>
-  </a> -->
-  <!-- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=000&logo=html5&logoColor=white" /> -->
-  <!-- <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=000&logo=css3" /> -->
-  <!-- <img src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&labelColor=000&logo=apollo-graphql" /> -->
-  <!-- <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&labelColor=000&logo=mysql" /> -->
   <!-- <img src="https://img.shields.io/badge/-java-E34A86?style=for-the-badge&labelColor=000&logo=java" /> -->
   <!-- <img src="https://img.shields.io/badge/-Rust-000?style=for-the-badge&labelColor=000&logo=rust" /> -->
   <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&labelColor=000&logo=typescript" />
@@ -27,8 +20,7 @@
   <img src="https://img.shields.io/badge/-Next-000?style=for-the-badge&labelColor=000&logo=next.js" />
   <img src="https://img.shields.io/badge/-Nest-d5214a?style=for-the-badge&labelColor=000&logo=nestjs" />
   <img src="https://img.shields.io/badge/-Planetscale-000?style=for-the-badge&labelColor=000&logo=planetscale" />
-  <!-- <img src="https://img.shields.io/badge/-Vercel-000?style=for-the-badge&labelColor=000&logo=vercel" /> -->
-  <!-- <img src="https://img.shields.io/badge/-Docker-2396ed?style=for-the-badge&labelColor=000&logo=docker" /> -->
+  <img src="https://img.shields.io/badge/-Vercel-000?style=for-the-badge&labelColor=000&logo=vercel" />
   <img src="https://img.shields.io/badge/Google Cloud-4383f2?style=for-the-badge&labelColor=000&logo=google-cloud" />
   <img src="https://img.shields.io/badge/-Git-f05032?style=for-the-badge&labelColor=000&logo=git" />
   <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&labelColor=000&logo=github" />
@@ -38,7 +30,6 @@
   <img src="https://img.shields.io/badge/-Vs Code-000?style=for-the-badge&labelColor=000&logo=visualstudiocode" />
   <img src="https://img.shields.io/badge/-Adobe-000?style=for-the-badge&labelColor=000&logo=adobe" />
   <img src="https://img.shields.io/badge/-Figma-ec4c1d?style=for-the-badge&labelColor=000&logo=figma" />
-<!--   <img src="https://img.shields.io/badge/-Spline-000?style=for-the-badge&labelColor=000&logo=spline" /> -->
   <br/>
   <br/>
   <samp>
