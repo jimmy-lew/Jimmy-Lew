@@ -33,7 +33,7 @@
   <br/>
   <br/>
   <samp>
-    I'm Jimmy. A Fullstack Web Developer & UI/UX Designer from Singapore <img width="20rem" style="border-radius: 0.1rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/800px-Flag_of_Singapore.svg.png?20211012105253"/> .
+    I'm Jimmy. A Data Scientist, Fullstack Web Developer and UI/UX Designer from Singapore <img width="20rem" style="border-radius: 0.1rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/800px-Flag_of_Singapore.svg.png?20211012105253"/> .
   </samp>
   <br/>
   <br/>
